@@ -16,3 +16,8 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+# HEY BIG FELLA
+Learn about ur team over [here](/our-staff)
+![Test Image](/images/Test-Logo.svg)
